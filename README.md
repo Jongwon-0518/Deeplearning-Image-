@@ -8,7 +8,7 @@ http://aifactory.space/competition/detail/1953
 colab의 ipynb파일에 작성
 
 
-### 소 발정기 판별 with detectron2.ipynb 사용법 및 각 셀에 대한 설명
+## 소 발정기 판별 with detectron2.ipynb 사용법 및 각 셀에 대한 설명
 
 첫 셀과 두번째 셀은 torch==1.9.0+cu102 torchvision==0.10.0+cu102 버젼을 설치. 위 파일은 cu102버젼을 사용
 
